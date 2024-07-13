@@ -1,0 +1,167 @@
+CustomerID,monetary,frequency,recency,cluster_labels,segmen
+3957,978.0,10,121,2,Pelanggan yang Membutuhkan Perhatian
+3958,1210.0,16,17,3,Pelanggan Baru
+3959,1824.0,17,48,0,Pelanggan Potensial
+3960,1262.0,13,17,3,Pelanggan Baru
+3961,1592.0,15,33,3,Pelanggan Baru
+3962,1285.0,10,6,3,Pelanggan Baru
+3963,1297.0,12,11,3,Pelanggan Baru
+3964,1739.0,15,16,3,Pelanggan Baru
+3965,1556.0,15,3,3,Pelanggan Baru
+3966,1337.0,11,14,3,Pelanggan Baru
+3967,1951.0,18,5,0,Pelanggan Potensial
+3968,1959.0,20,10,0,Pelanggan Potensial
+3969,969.0,11,16,3,Pelanggan Baru
+3970,2152.0,18,10,0,Pelanggan Potensial
+3971,1120.0,11,33,3,Pelanggan Baru
+3972,4938.0,18,77,1,Pelanggan Loyal
+3973,4950.0,24,27,1,Pelanggan Loyal
+3974,3558.0,15,2,0,Pelanggan Potensial
+3975,905.0,10,2,3,Pelanggan Baru
+3976,5845.0,15,3,1,Pelanggan Loyal
+3977,1025.0,14,11,3,Pelanggan Baru
+3978,2994.0,23,3,0,Pelanggan Potensial
+3979,1675.0,15,23,3,Pelanggan Baru
+3980,4012.0,16,32,1,Pelanggan Loyal
+3981,5096.0,13,21,1,Pelanggan Loyal
+3982,1652.0,12,19,3,Pelanggan Baru
+3983,1163.0,12,1,3,Pelanggan Baru
+3984,6327.0,14,37,1,Pelanggan Loyal
+3985,1993.0,19,7,0,Pelanggan Potensial
+3986,5908.0,18,6,1,Pelanggan Loyal
+3987,1797.0,16,30,3,Pelanggan Baru
+3988,1964.0,17,7,0,Pelanggan Potensial
+3989,1809.0,18,18,0,Pelanggan Potensial
+3990,1707.0,16,20,3,Pelanggan Baru
+3991,1185.0,10,12,3,Pelanggan Baru
+3992,2045.0,19,9,0,Pelanggan Potensial
+3993,1105.0,11,4,3,Pelanggan Baru
+3994,2131.0,19,21,0,Pelanggan Potensial
+3995,1732.0,17,11,0,Pelanggan Potensial
+3996,1421.0,14,26,3,Pelanggan Baru
+3997,3807.0,12,44,3,Pelanggan Baru
+3998,1732.0,14,8,3,Pelanggan Baru
+3999,1592.0,17,37,0,Pelanggan Potensial
+4000,1427.0,17,0,0,Pelanggan Potensial
+4001,4646.0,18,14,1,Pelanggan Loyal
+4002,6320.0,22,53,1,Pelanggan Loyal
+4003,1641.0,14,1,3,Pelanggan Baru
+4004,1456.0,14,7,3,Pelanggan Baru
+4005,1685.0,15,0,3,Pelanggan Baru
+4006,1786.0,18,3,0,Pelanggan Potensial
+4007,1278.0,12,66,2,Pelanggan yang Membutuhkan Perhatian
+4008,1969.0,20,48,0,Pelanggan Potensial
+4009,1137.0,15,7,3,Pelanggan Baru
+4010,1865.0,15,31,3,Pelanggan Baru
+4011,1137.0,12,2,3,Pelanggan Baru
+4012,3432.0,11,13,3,Pelanggan Baru
+4013,1334.0,15,40,3,Pelanggan Baru
+4014,712.0,10,9,3,Pelanggan Baru
+4015,1464.0,14,9,3,Pelanggan Baru
+4016,1115.0,13,64,2,Pelanggan yang Membutuhkan Perhatian
+4017,4770.0,20,3,1,Pelanggan Loyal
+4018,1153.0,13,47,3,Pelanggan Baru
+4019,3163.0,10,1,3,Pelanggan Baru
+4020,1537.0,12,5,3,Pelanggan Baru
+4021,1225.0,12,1,3,Pelanggan Baru
+4022,1156.0,10,35,3,Pelanggan Baru
+4023,1951.0,17,41,0,Pelanggan Potensial
+4024,1375.0,14,59,2,Pelanggan yang Membutuhkan Perhatian
+4025,1419.0,11,6,3,Pelanggan Baru
+4026,1484.0,15,42,3,Pelanggan Baru
+4027,1032.0,10,19,3,Pelanggan Baru
+4028,1287.0,16,40,3,Pelanggan Baru
+4029,1688.0,20,0,0,Pelanggan Potensial
+4030,1236.0,11,63,2,Pelanggan yang Membutuhkan Perhatian
+4031,2115.0,16,37,3,Pelanggan Baru
+4032,1306.0,14,19,3,Pelanggan Baru
+4033,1655.0,13,31,3,Pelanggan Baru
+4034,2355.0,20,24,0,Pelanggan Potensial
+4035,4812.0,8,67,2,Pelanggan yang Membutuhkan Perhatian
+4036,1534.0,11,6,3,Pelanggan Baru
+4037,1500.0,12,18,3,Pelanggan Baru
+4038,1448.0,16,48,3,Pelanggan Baru
+4039,1093.0,10,88,2,Pelanggan yang Membutuhkan Perhatian
+4040,6519.0,17,4,1,Pelanggan Loyal
+4041,645.0,9,8,3,Pelanggan Baru
+4042,2115.0,19,28,0,Pelanggan Potensial
+4043,1899.0,15,14,3,Pelanggan Baru
+4044,8745.0,18,38,1,Pelanggan Loyal
+4045,1397.0,13,30,3,Pelanggan Baru
+4046,928.0,8,59,2,Pelanggan yang Membutuhkan Perhatian
+4047,1808.0,16,36,3,Pelanggan Baru
+4048,1708.0,15,34,3,Pelanggan Baru
+4049,1405.0,15,3,3,Pelanggan Baru
+4050,915.0,9,103,2,Pelanggan yang Membutuhkan Perhatian
+4051,2035.0,20,7,0,Pelanggan Potensial
+4052,2145.0,19,13,0,Pelanggan Potensial
+4053,1684.0,12,31,3,Pelanggan Baru
+4054,4674.0,12,71,2,Pelanggan yang Membutuhkan Perhatian
+4055,3780.0,12,14,3,Pelanggan Baru
+4056,1517.0,15,65,2,Pelanggan yang Membutuhkan Perhatian
+4057,1442.0,15,3,3,Pelanggan Baru
+4058,946.0,10,31,3,Pelanggan Baru
+4059,1468.0,15,28,3,Pelanggan Baru
+4060,5033.0,17,5,1,Pelanggan Loyal
+4061,980.0,12,63,2,Pelanggan yang Membutuhkan Perhatian
+4062,1276.0,15,26,3,Pelanggan Baru
+4063,1673.0,17,13,0,Pelanggan Potensial
+4064,1503.0,13,49,2,Pelanggan yang Membutuhkan Perhatian
+4065,2393.0,21,6,0,Pelanggan Potensial
+4066,1076.0,10,40,3,Pelanggan Baru
+4067,6528.0,20,35,1,Pelanggan Loyal
+4068,2099.0,22,17,0,Pelanggan Potensial
+4069,954.0,14,57,2,Pelanggan yang Membutuhkan Perhatian
+4070,4730.0,18,26,1,Pelanggan Loyal
+4071,1797.0,14,39,3,Pelanggan Baru
+4072,1781.0,16,9,0,Pelanggan Potensial
+4073,2536.0,23,1,0,Pelanggan Potensial
+4074,1798.0,18,9,0,Pelanggan Potensial
+4075,7067.0,23,6,1,Pelanggan Loyal
+4076,807.0,10,93,2,Pelanggan yang Membutuhkan Perhatian
+4077,2320.0,18,28,0,Pelanggan Potensial
+4078,2881.0,25,5,0,Pelanggan Potensial
+4079,622.0,5,65,2,Pelanggan yang Membutuhkan Perhatian
+4080,4148.0,12,9,1,Pelanggan Loyal
+4081,2246.0,21,9,0,Pelanggan Potensial
+4082,2498.0,20,17,0,Pelanggan Potensial
+4083,4082.0,15,23,1,Pelanggan Loyal
+4084,2102.0,20,31,0,Pelanggan Potensial
+4085,1236.0,13,33,3,Pelanggan Baru
+4086,1851.0,18,24,0,Pelanggan Potensial
+4087,1029.0,9,35,3,Pelanggan Baru
+4088,1624.0,15,6,3,Pelanggan Baru
+4089,1139.0,10,75,2,Pelanggan yang Membutuhkan Perhatian
+4090,1735.0,17,2,0,Pelanggan Potensial
+4091,1533.0,13,43,3,Pelanggan Baru
+4092,1784.0,14,25,3,Pelanggan Baru
+4093,1705.0,17,7,0,Pelanggan Potensial
+4094,1667.0,15,43,3,Pelanggan Baru
+4095,1505.0,16,17,3,Pelanggan Baru
+4096,827.0,8,51,2,Pelanggan yang Membutuhkan Perhatian
+4097,3926.0,8,116,2,Pelanggan yang Membutuhkan Perhatian
+4098,1306.0,15,10,3,Pelanggan Baru
+4099,6002.0,16,15,1,Pelanggan Loyal
+4100,1660.0,14,8,3,Pelanggan Baru
+4101,856.0,7,9,3,Pelanggan Baru
+4102,3890.0,18,24,1,Pelanggan Loyal
+4103,1910.0,19,11,0,Pelanggan Potensial
+4104,1845.0,15,1,3,Pelanggan Baru
+4105,1498.0,18,64,2,Pelanggan yang Membutuhkan Perhatian
+4106,1777.0,16,24,3,Pelanggan Baru
+4107,2013.0,17,66,2,Pelanggan yang Membutuhkan Perhatian
+4108,6828.0,18,0,1,Pelanggan Loyal
+4109,5669.0,9,1,1,Pelanggan Loyal
+4110,4381.0,20,0,1,Pelanggan Loyal
+4111,2341.0,22,16,0,Pelanggan Potensial
+4112,616.0,5,84,2,Pelanggan yang Membutuhkan Perhatian
+4113,1909.0,16,16,0,Pelanggan Potensial
+4114,1259.0,14,30,3,Pelanggan Baru
+4115,4364.0,18,11,1,Pelanggan Loyal
+4116,1788.0,16,13,0,Pelanggan Potensial
+4117,1968.0,19,18,0,Pelanggan Potensial
+4118,1659.0,17,17,0,Pelanggan Potensial
+4119,1357.0,13,17,3,Pelanggan Baru
+4120,1774.0,16,1,0,Pelanggan Potensial
+4121,1617.0,13,63,2,Pelanggan yang Membutuhkan Perhatian
+4122,2530.0,24,2,0,Pelanggan Potensial
